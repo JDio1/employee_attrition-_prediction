@@ -33,7 +33,7 @@ This project aims to analyze employee data to identify factors that contribute t
 
 4. **Data Visualization and Dashboard**
    - Created interactive dashboards in Tableau Public to visualize attrition trends and key features influencing attrition.
-    !["HR Attrition Dashboard(Made with Tableu)"](HR Attrition Dashboard.png)
+    !["HR Attrition Dashboard(Made with Tableu)"](https://github.com/JDio1/employee_attrition-_prediction/blob/main/HR%20Attrition%20Dashboard.png)
 
 ## Technologies Used
 
