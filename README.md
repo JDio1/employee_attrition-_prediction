@@ -35,6 +35,14 @@ This project aims to analyze employee data to identify factors that contribute t
    - Created interactive dashboards in Tableau Public to visualize attrition trends and key features influencing attrition.
     !["HR Attrition Dashboard(Made with Tableu)"](https://github.com/JDio1/employee_attrition-_prediction/blob/main/HR%20Attrition%20Dashboard.png)
 
+5. **Interactive Data Visualization with Streamlit**
+   - Developed a Streamlit application to provide interactive data visualization.
+   - Implemented functionality to explore histograms and box plots of various features.
+   - To run the Streamlit application, use the following command:
+     ```sh
+     streamlit run app.py
+     ```
+
 ## Technologies Used
 
 - **Python**: Data analysis and machine learning
@@ -78,6 +86,12 @@ These findings and tools provide actionable insights for HR departments to devel
         Performs Exploratory Data Analysis (EDA) on the cleaned data
    - **Predictive modeling.ipynb**:
         Predictive models are developed, evaluated, trained, and compared to predict employee turnover
+
+4. **Run Streamlit App**
+   To explore interactive visualizations, run the following command:
+   ```sh
+     streamlit run app.py
+     ```
 
 ## Author
 - Justin Uto-Dieu
