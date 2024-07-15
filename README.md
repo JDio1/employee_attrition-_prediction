@@ -51,6 +51,7 @@ This project aims to analyze employee data to identify factors that contribute t
 - **Scikit-learn**: Machine learning models
 - **Matplotlib, Seaborn**: Data visualization
 - **Tableau Public**: Interactive dashboards and data visualization
+- **Streamlit**: Interactive Data visualization
 
 ## Summary of Results
 
